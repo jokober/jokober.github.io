@@ -2,38 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 Software Developer and Maker who has acquired a versatile skillset in various challanging projects at work and in my free time. Doing so, I learn new things with enthusiasm. 
 
-My interests include computer vision, sensors, cloud computing, edge computing, automatization, technology in agriculture, (I)IoT, machine learning and much more. 
-<!--
-**jokober/jokober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interests include computer vision, sensors, cloud computing, edge computing, automatization, technology in agriculture, (I)IoT, machine learning and much more.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Searchwing
 - 🌱 I’m currently learning Kotlin, Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about visual detection and tracking of small objects and birds in particular.
+- ⚡ Fun fact: I partly live on a house boat.
+
 
 [![](https://raw.githubusercontent.com/jokober/jokober/master/profile.gif)](https://www.jokober.com/)<!-- If you want the template for my gif, email me! -->
 
@@ -66,7 +56,3 @@ Here are some ideas to get you started:
 ![Obsidian]( 	https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
-### Projects
-#### FIDS Open Research Lab
-Artistic research boat equipped with various sensors and a high-resolution camera for automatic machine learning-based bird
-detection and tracking. Results are translated to sentences and displayed on a Flight Information Display System from an airport which is mounted to the back of the boat. https://fids-openresearchlab.org/
