@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jonathan
 middle_name: R.
 last_name: Kossick
-email: you@example.com
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website with blog and projects overview.
 footer_text: > #ToDo: Change footer text
@@ -92,7 +92,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid:  # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -110,7 +110,7 @@ zotero_username: # your zotero username
 
 #ToDo: Add contact note
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 
 
 # -----------------------------------------------------------------------------
